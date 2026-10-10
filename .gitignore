@@ -1,0 +1,22 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Local tool settings
+/.claude/
+
+# Signing keys and secrets: never commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Build artifacts
+*.apk
+*.aab
